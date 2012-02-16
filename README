@@ -1,0 +1,9 @@
+This is a small program for the Harvest interview process to find the saddle point of a matrix
+
+Run the program by providing a list of files from the command line that contain 5x5 matrix arrays for testing. ie.
+
+ruby saddle_points.rb input.txt
+
+The program will output all coordinates of found saddle points and "No saddle points found" in the case that the matrix does not contain any.
+
+For clarity, a row of equal signs (=) will be printed to mark a new matrix
