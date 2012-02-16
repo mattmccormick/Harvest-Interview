@@ -1,5 +1,3 @@
-require 'pp'
-
 abort "Please provide at least one input file" if ARGV.count == 0
 
 ARGV.each do |f|
